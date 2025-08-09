@@ -1,0 +1,56 @@
+
+SQL*Loader: Release 23.0.0.0.0 - Production on Sun Feb 9 16:23:18 2025
+Version 23.6.0.24.10
+
+Copyright (c) 1982, 2024, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   combined_controlfile.ctl
+Data File:      C:\Users\Prashant\Desktop\PythonStockData\CSVFiles\combined_price_data.csv
+  Bad File:     combined_price_data.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     250 rows, maximum of 1048576 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table PRICEDATA, loaded from every logical record.
+Insert option in effect for this table: INSERT
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+STOCKID                             FIRST     *   ,  O(") CHARACTER            
+TRADEDATE                            NEXT     *   ,  O(") CHARACTER            
+    SQL string for column : "TO_DATE(:TradeDate, 'YYYY-MM-DD')"
+OPENPRICE                            NEXT     *   ,  O(") CHARACTER            
+HIGHPRICE                            NEXT     *   ,  O(") CHARACTER            
+LOWPRICE                             NEXT     *   ,  O(") CHARACTER            
+CLOSEPRICE                           NEXT     *   ,  O(") CHARACTER            
+ADJCLOSEPRICE                        NEXT     *   ,  O(") CHARACTER            
+VOLUME                               NEXT     *   ,  O(") CHARACTER            
+
+
+Table PRICEDATA:
+  75177 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 516000 bytes(250 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:         75177
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Sun Feb 09 16:23:18 2025
+Run ended on Sun Feb 09 16:23:22 2025
+
+Elapsed time was:     00:00:03.44
+CPU time was:         00:00:00.12

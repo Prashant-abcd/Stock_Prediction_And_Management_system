@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|c:\\users\\prashant\\desktop\\dbs_project\\ui\\dbs_ui\\dbs_ui\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\investform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\investform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\investform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\investform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\newsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\newsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\newsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\newsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\newsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\newsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\watchlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\watchlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\watchlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\watchlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\investform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\investform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\transactionhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\transactionhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\transactionhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\transactionhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\userdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\userdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\signupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\signupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\adminviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\adminviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\adminviewform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\adminviewform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\adminviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\adminviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\dbs_ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8EC7D-865F-4430-9DEB-3D16475B1654}|DBS_UI\\DBS_UI.csproj|solutionrelative:dbs_ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvestForm.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\InvestForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\InvestForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\InvestForm.cs",
+              "RelativeToolTip": "DBS_UI\\InvestForm.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAPAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:26:08.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\UserDashboard.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\UserDashboard.cs [Design]",
+              "RelativeToolTip": "DBS_UI\\UserDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:22:51.413Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\UserDashboard.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\UserDashboard.cs",
+              "RelativeToolTip": "DBS_UI\\UserDashboard.cs",
+              "ViewState": "AgIAALkAAAAAAKMrBW/Rv8UAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:22:55.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvestForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\InvestForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\InvestForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\InvestForm.cs [Design]",
+              "RelativeToolTip": "DBS_UI\\InvestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:26:06.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminDashboard.cs",
+              "RelativeToolTip": "DBS_UI\\AdminDashboard.cs",
+              "ViewState": "AgIAAMgCAAAAAAAAAAAmwNACAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:54:05.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "DBS_UI\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:54:01.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\NewsForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\NewsForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\NewsForm.cs",
+              "RelativeToolTip": "DBS_UI\\NewsForm.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAqwMUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:54:29.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\Form1.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\Form1.cs",
+              "RelativeToolTip": "DBS_UI\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAHIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:24:11.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\Form1.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\Form1.cs [Design]",
+              "RelativeToolTip": "DBS_UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:24:07.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\NewsForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\NewsForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\NewsForm.cs [Design]",
+              "RelativeToolTip": "DBS_UI\\NewsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:54:28.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\NewsForm.Designer.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\NewsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\NewsForm.Designer.cs",
+              "RelativeToolTip": "DBS_UI\\NewsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:47:34.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "signupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\signupForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\signupForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\signupForm.cs [Design]",
+              "RelativeToolTip": "DBS_UI\\signupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:40:10.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "signupForm.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\signupForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\signupForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\signupForm.cs",
+              "RelativeToolTip": "DBS_UI\\signupForm.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:40:54.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WatchlistForm.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\WatchlistForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\WatchlistForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\WatchlistForm.cs",
+              "RelativeToolTip": "DBS_UI\\WatchlistForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:30:31.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvestForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\InvestForm.Designer.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\InvestForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\InvestForm.Designer.cs",
+              "RelativeToolTip": "DBS_UI\\InvestForm.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:26:56.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WatchlistForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\WatchlistForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\WatchlistForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\WatchlistForm.cs [Design]",
+              "RelativeToolTip": "DBS_UI\\WatchlistForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:30:29.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionHistoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\TransactionHistoryForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\TransactionHistoryForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\TransactionHistoryForm.cs [Design]",
+              "RelativeToolTip": "DBS_UI\\TransactionHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:28:33.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionHistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\TransactionHistoryForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\TransactionHistoryForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\TransactionHistoryForm.cs",
+              "RelativeToolTip": "DBS_UI\\TransactionHistoryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:28:34.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\UserDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\UserDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\UserDashboard.Designer.cs",
+              "RelativeToolTip": "DBS_UI\\UserDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:23:53.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "DBS_UI\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAIwOYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:55:49.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "signupForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\signupForm.Designer.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\signupForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\signupForm.Designer.cs",
+              "RelativeToolTip": "DBS_UI\\signupForm.Designer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:41:28.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminViewForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminViewForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\AdminViewForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminViewForm.cs [Design]",
+              "RelativeToolTip": "DBS_UI\\AdminViewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:57:37.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminViewForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminViewForm.Designer.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\AdminViewForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminViewForm.Designer.cs",
+              "RelativeToolTip": "DBS_UI\\AdminViewForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:58:33.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminViewForm.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminViewForm.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\AdminViewForm.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\AdminViewForm.cs",
+              "RelativeToolTip": "DBS_UI\\AdminViewForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:57:38.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DBS_UI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Prashant\\Desktop\\DBS_project\\UI\\DBS_UI\\DBS_UI\\Form1.Designer.cs",
+              "RelativeToolTip": "DBS_UI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:33:13.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

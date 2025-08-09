@@ -1,0 +1,91 @@
+using (OracleCommand cmd = new OracleCommand(query, conn))
+What It Does (in short):
+
+Creates a new OracleCommand object named cmd to run a SQL query on the Oracle database.
+query is the SQL query you want to run (e.g., SELECT or INSERT).
+conn is the database connection (OracleConnection) you’re using.
+The using statement ensures that cmd is properly cleaned up after use (it automatically closes and disposes of the command to avoid memory leaks).
+
+
+
+******************************************************************************************************************
+string query = "SELECT Passwordhash, Role FROM Users WHERE Username = :username";
+
+
+What It Does: This tells the database, "I want to find a row in the Users table where the Username column matches a value, but I’m not giving the value yet—I’ll provide it later."
+Username: The column in the Users table.
+:username: A placeholder (parameter) that says, "I’ll fill in this value later." The : tells Oracle it’s a parameter, not a literal value. 
+
+
+
+
+the parameter line 
+cmd.Parameters.Add("username", OracleDbType.Varchar2).Value = username;
+
+
+What It Does: This gives the actual value to the :username placeholder you used in the query.
+cmd.Parameters.Add: Adds a parameter to the query.
+"username": The name of the parameter (matches the :username in the query).
+OracleDbType.Varchar2: Tells Oracle the parameter is a string (since usernames are text).
+.Value = username: Sets the value of the parameter to the username variable (which comes from the textbox, e.g., "Prashant").
+
+
+
+*****************************************************************************************************************
+
+
+
+DB-Related Parts:
+
+Connection String (in DBHelper):
+public static string ConnectionString = "User Id=system;Password=Prashant11;Data Source=DESKTOP-7LNHFH3";
+What It Does: Tells the app how to connect to the Oracle database.
+User Id=system: Username for the database.
+Password=Prashant11: Password for the database.
+Data Source=DESKTOP-7LNHFH3: The location/name of the database.
+Test Connection (in DBHelper):
+using (OracleConnection conn = new OracleConnection(ConnectionString))
+What It Does: Creates a connection object (conn) to the database using the connection string.
+conn.Open();: Opens the connection to the database to test if it works.
+Used In: TestConnection() to check if the database is reachable when the form loads.
+Login Button (loginButton_Click):
+Connection Creation:
+OracleConnection conn = new OracleConnection(DBHelper.ConnectionString);
+What It Does: Creates a new connection object (conn) using the connection string from DBHelper.
+conn.Open();: Opens the connection to the database.
+Query Creation:
+string query = "SELECT Passwordhash, Role FROM Users WHERE Username = :username";
+What It Does: Defines the SQL query to run (stored in a string variable query).
+Command Creation:
+OracleCommand cmd = new OracleCommand(query, conn);
+What It Does: Creates a command object (cmd) to run the SQL query (query) on the connection (conn).
+Add Parameter:
+cmd.Parameters.Add("username", OracleDbType.Varchar2).Value = username;
+What It Does:
+cmd.Parameters.Add: Adds a parameter to the query.
+"username": The name of the parameter in the query (matches :username in the SQL).
+OracleDbType.Varchar2: The type of the parameter (a string in Oracle).
+.Value = username: Sets the parameter’s value to the username entered by the user.
+Execute Query:
+OracleDataReader reader = cmd.ExecuteReader();
+What It Does: Runs the query and gets the results in a reader object (used to read the data row by row).
+Read Data:
+if (reader.Read())
+What It Does: Checks if the query returned a row (i.e., if the username exists).
+string storedPassword = reader["Passwordhash"].ToString();
+What It Does: Gets the Passwordhash column value from the row.
+string role = reader["Role"].ToString();
+What It Does: Gets the Role column value from the row.
+Close Connection:
+conn.Close();
+What It Does: Closes the database connection to free up resources.
+
+
+*****************************************************************************************************************
+
+
+Query: "SELECT Passwordhash, Role FROM Users WHERE Username = :username"
+Purpose: Checks if a username exists and gets the password and role.
+Table: Users
+Columns Selected: Passwordhash, Role
+Condition: WHERE Username = :username (matches the entered username).

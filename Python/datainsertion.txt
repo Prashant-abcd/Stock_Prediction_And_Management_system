@@ -1,0 +1,17 @@
+SQLLoader control file configuration. It instructs SQLLoader on how to load data from a CSV file into an Oracle database table
+
+
+LOAD DATA
+INFILE 'C:/Users/Prashant/Desktop/PythonStockData/CSVFiles/combined_price_data.csv'
+INTO TABLE PriceData
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+(StockID, TradeDate "TO_DATE(:TradeDate, 'YYYY-MM-DD')", OpenPrice, HighPrice, LowPrice, ClosePrice, AdjClosePrice, Volume)
+
+
+
+
+
+
+
+
+

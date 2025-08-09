@@ -1,0 +1,41 @@
+This form lets users create a new account by adding their username and password to the Users table.
+
+DB-Related Parts:
+
+Connection Creation:
+using (OracleConnection conn = new OracleConnection(DBHelper.ConnectionString))
+What It Does: Creates a connection object (conn) using the connection string from DBHelper.
+conn.Open();: Opens the connection to the database.
+Query Creation:
+string query = "INSERT INTO Users (Username, Passwordhash) VALUES (:username, :password)";
+What It Does: Defines the SQL query to run (stored in a string variable query).
+Command Creation:
+using (OracleCommand cmd = new OracleCommand(query, conn))
+What It Does: Creates a command object (cmd) to run the SQL query (query) on the connection (conn).
+Add Parameters:
+cmd.Parameters.Add("username", OracleDbType.Varchar2).Value = username;
+What It Does:
+Adds a parameter named "username" (matches :username in the SQL).
+OracleDbType.Varchar2: The parameter type (a string).
+.Value = username: Sets the value to the username entered by the user.
+cmd.Parameters.Add("passwordhash", OracleDbType.Varchar2).Value = password;
+What It Does:
+Adds a parameter named "passwordhash" (matches :password in the SQL).
+OracleDbType.Varchar2: The parameter type (a string).
+.Value = password: Sets the value to the password entered by the user.
+Execute Query:
+cmd.ExecuteNonQuery();
+What It Does: Runs the query to insert the new user into the Users table (no data is returned, so we use ExecuteNonQuery).
+Close Connection:
+conn.Close();
+What It Does: Closes the database connection to free up resources. 
+
+
+
+
+****************************************************************************************************************
+Query: "INSERT INTO Users (Username, Passwordhash) VALUES (:username, :password)"
+Purpose: Adds a new user to the Users table.
+Table: Users
+Columns Inserted: Username, Passwordhash
+Values: The username and password entered by the user.  

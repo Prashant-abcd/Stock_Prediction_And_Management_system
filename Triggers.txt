@@ -1,0 +1,18 @@
+used when predict stock is clicked to insert prediction details into prediction table
+
+* first a sequence is genereated
+CREATE SEQUENCE PredictionID_Seq
+    START WITH 1
+    INCREMENT BY 1
+    NOMAXVALUE;
+
+
+*trigger 
+
+CREATE OR REPLACE TRIGGER PredictionID_Trigger
+    BEFORE INSERT ON Prediction
+    FOR EACH ROW
+BEGIN
+    SELECT PredictionID_Seq.NEXTVAL INTO :NEW.PredictionID FROM DUAL;
+END;
+/

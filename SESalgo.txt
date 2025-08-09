@@ -1,0 +1,18 @@
+SES is a statistical method, not machine learning. It smooths out past data to predict the next value.
+It uses a simple formula: new_prediction = alpha * current_price + (1 - alpha) * old_prediction, where alpha is a fixed number (like 0.2).
+It focuses on recent prices and doesn’t “learn” patterns like linear regression does.
+
+
+
+
+In SES, we used alpha = 0.2, so we give 20% weight to the current price and 80% to the past smoothed value. This smooths out the random ups and downs in stock prices, making the prediction more stable.
+
+
+
+
+
+
+SES uses this formula: new_prediction = alpha * current_price + (1 - alpha) * old_prediction.
+alpha is a number between 0 and 1 (we used 0.2). It decides how much weight to give to the latest price.
+Example: If alpha = 0.2, the current price is 100, and the old prediction is 90:
+New prediction = 0.2 * 100 + 0.8 * 90 = 20 + 72 = 92
